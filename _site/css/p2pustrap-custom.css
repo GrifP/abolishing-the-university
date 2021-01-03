@@ -8272,7 +8272,7 @@ body {
   padding-right: 1em !important; }
 
 .jumbotron {
-  background: url(../img/jumbotron_mask.svg) repeat, url(../img/jumbotron-image.svg) center center / contain rgb(88, 215, 203);
+  background: url("../img/jumbotron_mask.svg") repeat, url("../img/jumbotron_image.svg") center/cover #49B1A7;
   color: #fff;
   text-shadow: 5px 5px 10px #515665; }
   .jumbotron a {
