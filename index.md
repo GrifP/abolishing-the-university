@@ -6,13 +6,13 @@ published: true
 
 *Should we work to abolish the university as it currently exists?*
 
-*What can you do locally to organize for activist education?*
+*What can you do locally to organize for activist study?*
 
 <br>
 
-This five-part course presents a series of freely accessible, seminal works in the field of abolitionist university studies, followed by a number of discussion and reflection questions. Each module is designed to be engaged first alone (approx. 2-3 hours/week), and then in a weekly reading group following the learning circle format. You are, of course, free to simply work through everything alone. For more about setting up a learning circle, visit [p2pu.org](http://www.p2pu.org). 
+This five-part course presents a series of freely accessible works that examine universities from an abolitionist perspective, followed by a number of discussion and reflection questions. Each module is designed to be engaged first alone (approx. 2-3 hours/week), and then in a weekly reading group following the learning circle format. You are, of course, free to simply work through everything alone. For more about setting up a learning circle, visit [p2pu.org](https://p2pu.org).
 
-The course was compiled by Yarden Katz and Grif Peterson, based on Abigail Boggs’s syllabus [“Abolitionist University Studies” (2019)](https://www.academia.edu/40213440/Abolitionist_University_Studies_Syllabus_Fall_2019) and materials by Abigail Boggs, Eli Meyerhoff, Nick Mitchell, and Zach Schwartz-Weinstein. 
+The course was compiled by Yarden Katz and Grif Peterson, based on Abigail Boggs’s syllabus [“Abolitionist University Studies” (2019)](https://www.academia.edu/40213440/Abolitionist_University_Studies_Syllabus_Fall_2019).
 
 Here’s a further description of the full course from Abigail Boggs:
 
