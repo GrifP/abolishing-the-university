@@ -1,8 +1,8 @@
 ---
-title: Universities, Land, and Decolonization
+title: Land and Decolonization
 ---
 
-## Universities, Land, and Decolonization
+## Land and Decolonization
 
 This module looks at how American universities have both profited from and served the settler-colonialist project. The first reading describes how universities have been built on expropriated Indigenous lands and how this land continues to enrich universities. The second reading by la paperson explores the possibilities of subverting, within universities, settler-colonialism and its technologies of oppression.  
 

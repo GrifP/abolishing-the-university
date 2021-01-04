@@ -1,8 +1,8 @@
 ---
-title: Abolitionist Approaches
+title: Abolitionist Studies
 ---
 
-## Abolitionist Approaches
+## Abolitionist Studies
 
 This module looks at abolitionist approaches more generally, stepping away from the application to the university. In a Jacobin article, Dan Berger, Mariame Kaba, and David Stein take the case of prison abolitionists, tracing their organizing back through a history of state violence and making the claim that abolition is rooted in organizing for concrete reforms, not naive dreams. Mariame Kaba expands on these in an audio interview.
 

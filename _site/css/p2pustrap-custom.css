@@ -8256,9 +8256,6 @@ body {
   body h1, body h2, body h3, body h4, body h5, body h6 {
     font-weight: 400; }
 
-@media (min-width: 768px) {
-  .navbar {
-    line-height: 3; } }
 .navbar a, .navbar .nav-link, .navbar button {
   color: rgba(255, 255, 255, 0.8);
   text-transform: uppercase; }
@@ -8328,6 +8325,7 @@ section {
   padding: 0; }
 
 .sidebar li {
+  padding-right: 1em;
   position: relative;
   transition: color, 0.3s, linear; }
   @media (prefers-reduced-motion: reduce) {
