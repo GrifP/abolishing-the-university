@@ -3,7 +3,7 @@ title: Refusing The University
 ---
 
 ## Refusing The University
-
+<br>
 The first module of this course introduces the pairing of university and abolition studies, charting a path for understanding the possibilities of education and study that live beyond our current institutional conceptions of colleges and universities. The main readings for this first module are two chapters from Stefano Harney and Fred Moten's 2013 _The Undercommons: Fugitive Study and Black Planning_, followed by a 2016 article by Robin D.G. Kelley reflecting on academia’s response to the killing of Michael Brown in Ferguson, Missouri.
 
 
