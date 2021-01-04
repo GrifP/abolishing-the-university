@@ -15,7 +15,7 @@ Supplemental materials from UnKoch My Campus show how the network of nonprofit o
 
 
 
-*   UnKoch My Campus report. [Advancing White Supremacy through Academic Strategy](http://www.unkochmycampus.org/los-preface)
+*   UnKoch My Campus report. *[Advancing White Supremacy through Academic Strategy](http://www.unkochmycampus.org/los-preface)*
 
 
 
