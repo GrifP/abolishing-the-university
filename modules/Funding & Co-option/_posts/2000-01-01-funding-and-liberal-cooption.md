@@ -3,7 +3,7 @@ title: Funding and Liberal Co-option of Radical Spaces
 ---
 
 ## Funding and Liberal Co-option of Radical Spaces
-
+<br>
 This module examines how funding and not-for-profit organizational structures can work to contain and co-opt radical social movements. The main readings introduce the idea of the “non-profit industrial complex” and the mechanisms by which radical spaces have been historically suppressed. 
 
 
