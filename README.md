@@ -1,6 +1,6 @@
 # Abolishing the University
 
-Should and can we work to abolish the university as it currently exists?
+Should we work to abolish the university as it currently exists?
 
 How can we create spaces for collective study?
 
